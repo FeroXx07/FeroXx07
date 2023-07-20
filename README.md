@@ -1,4 +1,41 @@
-### Hi there 👋
+# Hello there 👋, name's Ali!
+
+## 👨‍💻 Game Developer & Programmer:
+
+📚 I’m studying Game Development in CITM
+
+🔭 Currently looking for internships
+
+💬 Ask me about anything you don't see here
+
+## Contact
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/AliHassan-Shahid">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="ali.hassan.shahid@estudiantat.upc.edu">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+</div>
+
+## :hammer_and_wrench: Stack:
+
+### Languages
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-plain-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+</div>
+
+### Tools
+
+
 
 <!--
 **FeroXx07/FeroXx07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +51,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+## Enough talking, look at my pinned projects 
+<div id="header" align="left">
+  <img src="https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e47lewka3etxytshqvrwz2m5xzg5xvn3ze8xhkmjrhr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
+</div>
