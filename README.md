@@ -44,26 +44,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="Trello" alt="Trello" width="40" height="40" />&nbsp;
 </div>
 
+## 📊 My Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=FeroXx07&theme=dark)](https://git.io/streak-stats)
 
-<!--
-**FeroXx07/FeroXx07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
-
-## Enough talking, look at my pinned projects 
+## Enough talking, take a look at my pinned projects 
 <div id="header" align="left">
   <img src="https://media3.giphy.com/media/qwi7fF1bfJQMPlTZ43/giphy.gif?cid=ecf05e47lewka3etxytshqvrwz2m5xzg5xvn3ze8xhkmjrhr&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"/>
 </div>
