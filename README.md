@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Game Developer & C++ Programmer:
 
-📚 I’m studying Game Development in CITM. Currently learning UE 5.
+📚 Finished Game Development in CITM. Currently learning UE 5.
 
 🔭 Currently looking for internships
 
