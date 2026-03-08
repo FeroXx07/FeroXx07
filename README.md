@@ -1,6 +1,6 @@
 # Hello there 👋, name's Ali!
 
-## 👨‍💻 Game Developer & C++ Programmer:
+## 👨‍💻 Software Engineer, Game Developer:
 
 📚 Finished Game Development in CITM. Currently learning UE 5.
 
